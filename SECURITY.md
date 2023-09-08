@@ -1,11 +1,20 @@
-GitHub takes the security of our software products and services seriously, including the open source code repositories managed through our GitHub organizations, such as [GitHub](https://github.com/GitHub).
 
-If you believe you have found a security vulnerability in this GitHub-owned open source repository, you can report it to us in one of two ways.
+التزامنا بالخصوصية
+خصوصية
+     واجهة برمجة التطبيقات (/api/الشروط)
+© معلومات (/DMCA)
+  خصوصيتك مهمة بالنسبة لنا. لحماية خصوصيتك بشكل أفضل، نقدم هذا الإشعار الذي يشرح ممارساتنا المتعلقة بالمعلومات عبر الإنترنت والخيارات التي يمكنك اتخاذها بشأن طريقة جمع معلوماتك واستخدامها.
+المعلومات التي نجمعها
+ينطبق هذا الإشعار على جميع المعلومات التي تم جمعها أو تقديمها على موقع Instapaper وتطبيقات وخدمات Instapaper لأجهزة iPhone وiPad وAndroid وKindle والأجهزة والأنظمة الأساسية الأخرى، والتي يشار إليها فيما بعد باسم Instapaper ببساطة.
+يحتاج Instapaper أحيانًا إلى جمع المعلومات من أجل الملاءمة أو التطبيق العملي أو المتطلبات الفنية. تتضمن هذه المعلومات:
+اسم المستخدم الذي اخترته، والذي قد يكون عنوان بريدك الإلكتروني أو اسمك. اسم المستخدم مطلوب تقنيًا حتى تتمكن من تسجيل الدخول من أجهزة كمبيوتر وأجهزة متعددة. نحن نشجعك على استخدام عنوان بريدك الإلكتروني لجعل وظيفة "نسيت كلمة المرور" ممكنة.
+كلمة المرور التي اخترتها، والتي تكون فارغة بشكل افتراضي. يتم تخزين تجزئة كلمة المرور الخاصة بك في قاعدة بيانات Instapaper، ويتم استخدام كلمة المرور ذات النص العادي فقط لمقارنة التجزئة بالقيمة المخزنة.
+العناوين وعناوين URL (العناوين) والنص المحدد للصفحات التي تحفظها في Instapaper، والإشارات المرجعية الخاصة بالمجلدات، وتطبيقات Instapaper، وتطبيقات الجهات الخارجية التي تستخدم Instapaper API، وأي وسيلة أخرى يمكن من خلالها إضافة صفحات إلى Instapaper.
+محتويات HTML للصفحات التي تحفظها في Instapaper عند التعرف عليها كموقع معروف يتطلب تسجيل الدخول. وهذا مطلوب تقنيًا لإنشاء عرض النص وميزات الفهرسة الأخرى للمواقع التي تتطلب تسجيلات دخول أو حسابات، مثل بعض ناشري الصحف الكبرى. عندما يتم حفظ HTML لصفحة ما، يتم استخدامه فقط داخل حسابك ولا يتم الكشف عنه عبر ميزات التواصل الاجتماعي أو ميزات المشاركة.
+عنوان البريد الإلكتروني الخاص بك على Amazon Kindle، إذا قمت بتمكين التسليم التلقائي إلى جهاز Kindle الخاص بك. يعد هذا مطلوبًا تقنيًا لإرسال المحتوى الخاص بك إلى جهاز Kindle الخاص بك.
+كما هو الحال مع معظم مواقع الويب، يقوم Instapaper أيضًا بجمع المعلومات وتخزينها تلقائيًا ومن خلال استخدام الأدوات الإلكترونية التي قد تكون شفافة لزوارنا. على سبيل المثال، قد نقوم بتسجيل اسم مزود خدمة الإنترنت الخاص بك، وعنوان IP الخاص بك، والمعلومات المقدمة بواسطة متصفح الإنترنت الخاص بك وعنه. وبما أننا نعتمد تكنولوجيا إضافية، فقد نقوم أيضًا بجمع معلومات مماثلة من خلال وسائل أخرى.
+قد نستخدم أيضًا تقنية "ملفات تعريف الارتباط". من بين أمور أخرى، قد نستخدم ملفات تعريف الارتباط أو تقنيات التتبع الأخرى لأغراض تخزين معلوماتك
 
-If the vulnerability you have found is *not* [in scope for the GitHub Bug Bounty Program](https://bounty.github.com/#scope) or if you do not wish to be considered for a bounty reward, please report the issue to us directly using [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing/privately-reporting-a-security-vulnerability).
 
-If the vulnerability you have found is [in scope for the GitHub Bug Bounty Program](https://bounty.github.com/#scope) and you would like for your finding to be considered for a bounty reward, please submit the vulnerability to us through [HackerOne](https://hackerone.com/github) in order to be eligible to receive a bounty award.
 
-**Please do not report security vulnerabilities through public GitHub issues, discussions, or pull requests.**
 
-Thanks for helping make GitHub safe for everyone.
